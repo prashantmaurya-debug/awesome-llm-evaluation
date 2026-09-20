@@ -107,6 +107,7 @@ Open-source tools for building and running your own evaluations.
 - **[DeepEval](https://github.com/confident-ai/deepeval)** : Unit testing framework for LLMs with 14+ evaluation metrics.
 - **[ragas](https://github.com/explodinggradients/ragas)** : Evaluation framework focused on RAG pipelines.
 - **[Inspect AI](https://github.com/UKGovernmentBEIS/inspect_ai)** : UK AISI's evaluation framework for AI safety.
+- **[agent-convergence-scorer](https://github.com/hermes-labs-ai/agent-convergence-scorer)** : Zero-dependency Python CLI and library for measuring lexical convergence, exact-match rate, overlap, and divergence across parallel agent runs.
 
 ## LLM-as-Judge
 
